@@ -1,0 +1,65 @@
+<quiz>
+    <question>
+        <text>What is the correct way to create an object called myObject of a class called MyClass in java? </text>
+        <option>class myObject = MyClass();</option>
+        <option>MyObject myObject = new MyClass();</option>
+        <option>myObject = new MyClass();</option>
+        <option correct="true">MyClass myObject = new MyClass();</option>
+	</question>
+    <question>
+        <text>Which method in java is used to find the length of a string?</text>
+        <option>getLength{}</option>
+        <option>len()</option>
+        <option>sizeOf()</option>
+        <option correct="true">length()</option>
+    </question>
+    <question>
+        <text>How to create a function in java? </text>
+        <option correct="true">returnType functionName(){return returnType;}</option>
+        <option>returnType functionName[return true]; </option>
+        <option>returnType functionName{return();}</option>
+        <option>returnType functionName = (return 0;)</option>
+    </question>
+    <question>
+        <text>Which data type is used to create a variable that should store text in java?</text>
+        <option>jString</option>
+        <option correct="true">String</option>
+        <option>string</option>
+        <option>txt</option>
+    </question>
+    <question>
+        <text>Which keyword is used to create a class in java? </text>
+        <option correct="true">class</option>
+        <option>className</option>
+        <option>class()</option>
+        <option>MyClass</option>
+    </question>
+    <question>
+        <text>in java which keyword is used to return a value from a method? </text>
+        <option>bringBack</option>
+        <option>void</option>
+        <option>get</option>
+        <option correct="true">return</option>
+   	</question>
+    <question>
+        <text>From java Math package, which method can be used to find the highest value of x and y?</text>
+        <option>Math.Largest(x,y); </option>
+        <option>Math.maxNum(x,y); </option>
+        <option correct="true">Math.max(x,y);</option>
+        <option>Math.maximum(x,y); </option>
+    </question>
+    <question>
+        <text>In java, variables are only accessible inside the region they are created. What do we call that in java. </text>
+        <option correct="true">scope</option>
+        <option>area</option>
+        <option>main</option>
+        <option>method</option>
+    </question>
+    <question>
+        <text>In java nested classes, we have an outer class called OuterClass and a static nested class called InnerClass,how do we create an object of the  inner class? </text>
+        <option>InnerClass.OuterClass myObject = new OuterClass.InnerClass();</option>
+        <option correct="true">OuterClass.InnerClass myObject = new OuterClass.InnerClass(); </option>
+        <option>InnerClass myObject = new OuterClass.InnerClass();</option>
+        <option>MyInnerClass myObject= new outerClass();</option>
+    </question>
+</quiz>

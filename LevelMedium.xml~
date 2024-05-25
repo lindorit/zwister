@@ -1,0 +1,48 @@
+<quiz>
+	<question>
+    	<text>in python the following statement will display "Hello World!" on the console.
+      System.out.println(“Hello world!”)</text>
+       <option>True</option>
+       <option correct="true">False</option>
+   </question>
+   <question>
+        <text> the "#" symbol is used for a single line comment in python.</text>
+        <option correct="true">True</option>
+        <option>False</option>
+    </question>
+    <question>
+        <text>def is the correct python syntax to define a function. </text>
+        <option correct="true">True</option>
+        <option>False</option>
+     </question>
+    <question>
+        <text>In python, “Hello” is same as ‘Hello’. </text>
+        <option correct="true" >True</option>
+        <option>False</option>
+   </question>
+   <question>
+        <text>In python, a string variable is declared using the keyword String. </text>
+        <option>True</option>
+        <option correct="true" >False</option>
+    </question>
+    <question>
+        <text>In, Python we use the following syntax to write a for loop. for(int i = 0; i &lt; 5; i++) </text>
+        <option>True</option>
+        <option correct="true" >False</option>
+    </question>
+    <question>
+        <text>in python continue is the statement used to terminate a loop.</text>
+        <option>True</option>
+        <option correct="true">False</option>
+    </question>
+    <question>
+        <text>break is the statement used in python to stop the function. </text>
+        <option>True</option>
+        <option correct="true" >False</option>
+    </question>
+    <question>
+         <text>In a python array: array = [2, 0, 3, 5], print(array[-1]) will output the value 5. </text>
+         <option correct="true" >True</option>
+         <option>False</option>   
+    </question>
+</quiz>

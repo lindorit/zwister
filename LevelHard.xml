@@ -1,0 +1,52 @@
+ <quiz>    
+	 <question>
+        <text>In C++, the output for the following code. int arr[] = {2, 5, 8, 0}; cout &lt;&lt; arr; is.</text>
+        <option correct="true">the address of the first array element</option>
+    </question>
+    <question>
+        <text>In C++, the output for the following code. int arr[] = {2, 5, 8, 0}; cout &lt;&lt; *arr; is.</text>
+        <option correct="true">2</option>
+        </question>
+    <question>
+       <text>In C++, the output for the following code. int arr[] = {2, 5, 8, 0}; cout &lt;&lt; *(arr +1); is.</text>
+        <option correct="true">5</option>
+        </question>
+    <question>
+        <text>Given the code below:
+        string name = "coding";
+        string &amp;ref = name;
+        ref = "code";
+
+        cout &lt;&lt; name &lt;&lt; endl;
+        this line will output the string code.</text>
+        <option correct="true">True</option> 
+    </question>
+    <question>
+        <text>Write the code that prints the length of an array of integers;int arr[] = {};
+    [note: do NOT include the "endl" keyword]</text>
+        <option correct="true">cout &lt;&lt; sizeof(arr)/sizeof(int);</option>
+    </question>
+    <question>
+        <text>string word = "MYWORD";
+    string* a_word = word;
+    cout &lt;&lt; a_word &lt;&lt; endl;
+    what will be the output of the above lines of code?</text>
+        <option correct="true">error</option>
+    </question>
+    <question>
+        <text>In order to get the actual value of a pointer (not the address), what would we do to the pointer?</text>
+        <option correct="true">Derefference a pointer</option>
+    </question>
+    <question>
+        <text>C++ does not allow the addition of objects, what would you do to make it possible?</text>
+        <option correct="true">Use operator overloading</option>
+    </question>
+    <question>
+        <text>void add(int x, int y) {
+      return (x + y);
+    }
+    from the addition function defined above, give the output if, 
+    int answer = add(5, 6);</text>
+        <option correct="true">error</option>
+    </question>
+</quiz>
